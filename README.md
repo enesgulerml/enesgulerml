@@ -17,5 +17,5 @@ I am currently architecting scalable ML systems focusing on:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 #### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/enes-güler](www.linkedin.com/in/enes-güler-8ab8a7346)
+- **LinkedIn:** [linkedin.com/in/enes-güler]([www.linkedin.com/in/enes-güler-8ab8a7346](https://www.linkedin.com/in/enes-g%C3%BCler-8ab8a7346/))
 - **Email:** enesguler.ml@gmail.com
