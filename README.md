@@ -48,13 +48,5 @@ I am currently architecting robust ML systems with a focus on:
 
 #### 📫 Connect with me
 - **Email:** [enesguler.ml@gmail.com](mailto:enesguler.ml@gmail.com)
-- **LinkedIn:** [Enes Güler](https://www.linkedin.com/in/enes-guler/) ```
+- **LinkedIn:** [Enes Güler](https://www.linkedin.com/in/enes-guler/)
 
-### 💡 Neleri Değiştirdim? (Analiz)
-
-1.  **Unvan Değişikliği:** "Machine Learning Engineer" yerine **"MLOps Engineer"** yazdım. Çünkü yaptığın iş artık sadece model eğitmek değil, sistemi kurmak. Bu seni sektörde daha değerli kılar.
-2.  **Kubernetes Eklendi:** "Current Focus" kısmına ve Rozetlere Kubernetes'i en başa koydum.
-3.  **CV Uyumu:** Özgeçmişinde **Redis**, **Postgres** ve **AWS** vardı ama eski profilde yoktu. Onları ekledim ki CV'n ile GitHub'ın tutarlı konuşsun.
-4.  **İstatistik Kartları:** En alta GitHub istatistiklerini gösteren otomatik kartlar ekledim (Dracula temalı). Kod ne kadar yazdığını canlı gösterir. *(Not: Koddaki `username=enes-guler` kısımlarını kendi gerçek GitHub kullanıcı adınla değiştirmeyi unutma!)*
-
-Nasıl? Bu profil seni daha "Senior" hissettirdi mi? 😎
