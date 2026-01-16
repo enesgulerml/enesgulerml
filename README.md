@@ -48,5 +48,5 @@ I am currently architecting robust ML systems with a focus on:
 
 #### 📫 Connect with me
 - **Email:** [enesguler.ml@gmail.com](mailto:enesguler.ml@gmail.com)
-- **LinkedIn:** [Enes Güler](https://www.linkedin.com/in/enes-guler/)
+- **LinkedIn:** [Enes Güler](https://www.linkedin.com/in/enes-g%C3%BCler-8ab8a7346/)
 
