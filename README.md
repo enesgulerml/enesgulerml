@@ -9,7 +9,7 @@ I am currently architecting robust ML systems with a focus on:
 - **Orchestration:** Managing containerized applications with **Kubernetes**.
 - **MLOps:** End-to-end pipeline automation & monitoring.
 - **Microservices:** Decoupling monolithic ML code into scalable **FastAPI** services.
-- **Infrastructure:** Configuring **AWS** (EC2, VPC) and Linux environments for high availability.
+- **Infrastructure:** Configuring **AWS** (EC2, VPC, IAM, ECR) and Linux environments for high availability.
 
 ---
 
