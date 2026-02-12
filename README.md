@@ -1,19 +1,19 @@
-### Hi there, I'm Enes! 👋
+### Hi there, I'm Enes!
 
 I'm an **MLOps Engineer** focused on designing scalable, cloud-native inference architectures and automated CI/CD pipelines. I specialize in transforming experimental models into production-ready microservices using **Kubernetes**, **Docker**, and **AWS**.
 
 ---
 
-#### 🔭 What I'm working on
+#### What I'm working on
 I am currently architecting robust ML systems with a focus on:
-- **Orchestration:** Managing containerized applications with **Kubernetes** (Minikube/EKS).
+- **Orchestration:** Managing containerized applications with **Kubernetes**.
 - **MLOps:** End-to-end pipeline automation & monitoring.
 - **Microservices:** Decoupling monolithic ML code into scalable **FastAPI** services.
 - **Infrastructure:** Configuring **AWS** (EC2, VPC) and Linux environments for high availability.
 
 ---
 
-#### 🛠️ Tech Stack
+#### Tech Stack
 
 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,7 +34,7 @@ I am currently architecting robust ML systems with a focus on:
 
 ---
 
-#### 📊 GitHub Stats
+#### GitHub Stats
 <p align="left">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=enesgulerml&show_icons=true&theme=dracula&hide_border=true" alt="Enes's GitHub Stats" />
@@ -46,7 +46,7 @@ I am currently architecting robust ML systems with a focus on:
 
 ---
 
-#### 📫 Connect with me
+#### Connect with me
 - **Email:** [enesguler.ml@gmail.com](mailto:enesguler.ml@gmail.com)
 - **LinkedIn:** [Enes Güler](https://www.linkedin.com/in/enes-g%C3%BCler-8ab8a7346/)
 
